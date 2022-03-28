@@ -1,5 +1,5 @@
 # Welcome
-# String Indexing
+# String Slicing
 
 Automated grading of homework assignments and tests
 - fork this repository
